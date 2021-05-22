@@ -1,5 +1,5 @@
 /*
-Al West, 2014, UK. Modified by Tek465B
+Al West, 2014, UK. Modified by Tek465B 2017
 compiles to 6,240 bytes
 Demonstrates the use a 20x4 LCD display as Matrix Orbital Device in LCD Smartie.
 This should work all LCD displays that are compatible with the Hitachi HD44780 driver.
